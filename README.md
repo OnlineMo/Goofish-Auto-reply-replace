@@ -1,3 +1,5 @@
+时间原因，停止更新 请移步 https://github.com/RickForYK/xianyu-auto-reply-cookiecloud 查看替代
+
 # Goofish-Auto-reply-replace
 修改 https://github.com/zhinianboke/xianyu-auto-reply 的 docker ，使其支持 https://github.com/easychen/CookieCloud
 
